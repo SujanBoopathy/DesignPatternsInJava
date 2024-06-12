@@ -21,5 +21,7 @@ public class CompositeDemo {
 
         drawing.draw("yellow");
 
+        drawing.clear();
+
     }
 }
